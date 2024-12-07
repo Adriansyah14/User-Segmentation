@@ -1,5 +1,7 @@
 # USER SEGMENTATION
 
+## Deskripsi
+Penjualan ritel adalah aktivitas jual beli barang atau jasa secara langsung kepada konsumen akhir. Proyek ini menggunakan data penjualan ritel online, yaitu penjualan melalui platform online seperti website atau aplikasi. Salah satu faktor yangg mempengaruhi penjualan ritel adalah preferensi konsumen. Melalui perubahan gaya hidup konsumen dan perubahan tren akan mempengaruhi jenis produk yang diminati sehingga konsumsi atau daya beli konsumen juga dapat bertambah atau berkurang. Maka, dibutuhkan pengelompokkan konsumen (pengguna) berdasarkan RFM segmentation.  Dengan RFM segmentation, dapat dilakukan tindakan yang tepat pada masing-masing kelompok pelanggan.
 Variabel pada dataset:
 - order_id : kode unik pemesanan
 - Product_code : kode pada produk
