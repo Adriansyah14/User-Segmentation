@@ -15,6 +15,8 @@ Variabel pada dataset:
 Pada tahap ini saya melakukan pembersihan data yaitu penghapusan nilai null, penghapusan outlier, transformasi data, dan pembuatan kolom baru.
 
 ## Analisis Hasil
+![image](https://github.com/user-attachments/assets/18bfbe19-89c7-42e5-a366-acfc2e459105)
+
 - Segment Hibernating terdapat banyak pengguna yaitu 1066 (27%), diikuti segment Champion 550 (14.1%) dan segment Loyal Customers 546 (14.0%)
 - Untuk segment Loyal Customers perlu dibuat program khusus yang fokus pada urgensi bertransaksi agar pengguna pada segment ini kembali bertransaksi dalam waktu dekat sehingga dapat naik ke segment Champion
 - Untuk segment Potential Loyalists perlu dibuat program khusus yang fokus pada jumlah transaksi agar pengguna pada segment ini lebih sering melakukan transaksi sehingga dapat naik ke segmen Champion
